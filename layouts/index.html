@@ -2,11 +2,14 @@
 <section class="homepage-wrapper">
 
   <p class="project-description">
-    This digital humanities project explores the development and use of Islamic calligraphy from the 7th to the 19th century
-    across different regions and empires.
+    In Arabic, the word <em>khatt</em> — often translated as calligraphy — carries layered meanings: it refers not only to writing and script, but also to lines, traces, and paths. Rooted in pre-Islamic poetry, where <em>khatt</em> evoked the fading marks of deserted campsites, the term embodies both aesthetic form and a deep sense of historical memory. This dual meaning — visual beauty and cultural trace — continues to resonate in Arabic calligraphy today.
   </p>
+  
+  <a href="#calligraphy-styles" class="explore-box">
+    Explore Calligraphy Styles
+  </a>
 
-  <div class="grid-container">
+  <div id="calligraphy-styles" class="grid-container">
     {{ range .Site.Data.styles }}
       {{ $cover := printf "images/%s-cover.jpg" .slug }}
       <a

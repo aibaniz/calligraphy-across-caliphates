@@ -14,4 +14,19 @@ gallery = [
 ]
 +++
 
-Kufic is the earliest angular script style, developed in the 7th century...
+### Historical Context
+
+**Kufic** is the earliest angular script style used for Qur’anic transcription, emerging in the 7th century CE. Though its name traditionally refers to the city of Kufa, scholars today use the term more broadly. Kufic does not indicate a single script used in a specific time or place, but rather encompasses a variety of early angular styles employed across the Islamic world.
+
+### Visual Characteristics
+
+- Bold, rectilinear strokes with strong horizontals and verticals  
+- Letters appear in separated clusters, forming a structured rhythm on the page  
+- Typically lacks diacritical marks in early stages; later vocalization added in red, green, or yellow dots  
+- Used almost exclusively for Qur’anic manuscripts in early Islamic centuries  
+- Associated with large, horizontal-format codices—often intended for ceremonial or liturgical use
+
+<blockquote class="academic-quote">
+  Calligraphers in early Islamic times used a variety of angular hands to transcribe Koran manuscripts. Beginning in the late eighteenth century, Orientalists have used the name kufic (French coufique) to designate these scripts. The name refers to Kufa, a city in southern Iraq which was an intellectual center in the first centuries of Islam. In some ways this choice was unfortunate, for historical sources do not describe the characteristics of the term kufic, but use it imprecisely to designate all or many early scripts used to transcribe the Koran.
+  <span class="quote-author">— Sheila S. Blair, <em>Islamic Calligraphy</em>, p. 104</span>
+</blockquote>

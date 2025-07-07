@@ -14,4 +14,22 @@ gallery = [
 ]
 +++
 
-Thuluth is a decorative script known for its large size and elegant curves. It was often used for architectural inscriptions, manuscript headings, and religious texts.
+### Historical Context
+
+**Thuluth** (Arabic *thuluth*, “one-third”) was developed in the 10th century CE under Abbasid reforms and later systematized by the renowned calligrapher Ibn Muqla. Its name refers to the proportion of the pen nib used to write it. Unlike earlier scripts used for Qur’anic transcription, Thuluth was intended as a display script—majestic, fluid, and large-scale—ideal for architecture, manuscripts, and imperial contexts.
+
+### Visual Characteristics
+
+- Long vertical strokes and sweeping, curved horizontal elements  
+- Dramatic contrast between thick and thin lines  
+- Highly ornamental and complex—difficult to execute with consistency  
+- Favored for monumental inscriptions, headings, and ceremonial uses  
+- Rarely used for full Qur’anic text; primarily appears in titles, architectural panels, and decorative compositions
+
+<blockquote class="academic-quote"> Thuluth, sometimes called the mother of scripts, became the
+foremost display script, used in manuscripts as a foil to naskh, but
+also in the large form for frontispieces, architectural
+inscriptions, and individual calligraphic compositions in which
+it was written in a variety of ways and juxtaposed to a number of
+other scripts and designs.<span class="quote-author">— Sheila S. Blair, <em>Islamic Calligraphy</em>, p. 494</span>
+</blockquote>

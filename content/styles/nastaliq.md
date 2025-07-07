@@ -14,4 +14,19 @@ gallery = [
 ]
 +++
 
-Nastaʿlīq is a flowing script developed in Persianate regions. Known for its diagonal slant and elegance, it became the principal script for Persian poetry and literature.
+### Historical Context
+
+**Nastaʿlīq** developed in 14th-century Iran as a fusion of *naskh* and *taʿlīq* scripts. Perfected by the calligrapher Mīr ʿAlī Tabrīzī, it became the dominant style for Persian literary manuscripts and was later adopted in Ottoman and Mughal contexts. Despite its broad reach, it remained closely associated with Persianate cultural and poetic traditions.
+
+### Visual Characteristics
+
+- Diagonal flow and cascading rhythm of words  
+- Short verticals and sweeping, rounded horizontals  
+- Elegant and fluid—visually evocative of Persian lyricism  
+- Less suited for Qurʾanic texts; ideal for court poetry, literature, and albums  
+- Often written with delicate strokes and spacious composition
+
+<blockquote class="academic-quote">
+These hanging scripts (ta`liq and nasta`liq) were particularly suitable for writing Persian. Persian differs from Arabic in its proportion of straight and curved letters. It also lacks the definite article al-, whose upright alif and lam lend a distinct verticality and rhythm to text written in the Arabic language.
+  <span class="quote-author">— Sheila S. Blair, <em>Islamic Calligraphy</em>, p. 270</span>
+</blockquote>

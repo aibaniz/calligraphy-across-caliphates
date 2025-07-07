@@ -14,4 +14,12 @@ gallery = [
 ]
 +++
 
-Maghribi script developed in North Africa and al-Andalus. It is marked by wide loops, a sloping baseline, and distinctive letter shapes, making it visually unique among Islamic scripts.
+### Historical Context
+
+**Maghribi** script refers to the cursive style of writing developed in the Islamic West—North Africa and al-Andalus—from the 10th century onward. It evolved from Kufic but became more rounded and flowing, and remained in use for religious and scholarly texts, especially Qurʾans, until the colonial period.
+
+### Visual Characteristics
+
+- Round letterforms with exaggerated bowls and deep descenders  
+- Distinctive looped *ṣād*, *ḍād*, and descending tails on *nūn*  
+- Heavy use of thick horizontal strokes and angular flourishes

@@ -14,4 +14,15 @@ gallery = [
 ]
 +++
 
-Muhaqqaq ....
+### Historical Context
+
+**Muḥaqqaq** is one of the classical “Six Pens” (*al-aqlām al-sitta*) of Arabic calligraphy. Its name is derived from the Arabic root *ḥaqqa* (to be true, correct, or accurate), reflecting its precision and clarity. Historically, the term was used both for “well-executed writing” and for a distinct script style used extensively in Qur’anic transcription. It was likely the first script systematized by the famous Abbasid calligrapher Ibn Muqla, though it continued to evolve over time. Muḥaqqaq became especially prominent for large-format Qur’ans and was revered for its clarity and elegance. Despite some overlap with Thuluth in its visual forms, Muḥaqqaq was recognized for its more upright structure and horizontal emphasis. Over time, it declined in everyday usage but remained a hallmark of masterful execution.
+
+### Visual Characteristics
+
+- Upright, bold letterforms with a strong sense of horizontal flow  
+- Clear ligatures and reduced sublinear strokes  
+- Final *hāʾ* forms a closed loop, unlike Thuluth’s open curl  
+- Sharp, diagonal endings on letters like *rāʾ* and *wāw*, without upward hooks  
+- Tails descend less below the baseline; elliptical bowls sometimes encircle the next letter  
+- Often considered a “dry” (*yābis*) script in contrast to the “wet” (*murattab*) fluidity of Thuluth  
