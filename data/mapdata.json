@@ -2,7 +2,7 @@
   {
     "script": "Kufic",
     "description": "Earliest Islamic inscriptions",
-    "color": "#6B4226",
+    "color": "#2a9d8f",
     "locations": [
       {
         "name": "Dome of the Rock, Jerusalem",
@@ -75,7 +75,7 @@
   {
     "script": "Naskh",
     "description": "Popular in Qurʾans and manuscripts",
-    "color": "#4F6D7A",
+    "color": "#e9c46a",
     "locations": [
       {
         "name": "Cairo",
@@ -118,7 +118,7 @@
   {
     "script": "Muhaqqaq",
     "description": "Used for important manuscripts",
-    "color": "#7C3A2D",
+    "color": "#287271",
     "locations": [
       {
         "name": "Baghdad",
@@ -143,7 +143,7 @@
   {
     "script": "Thuluth",
     "description": "Monumental inscriptions and decoration",
-    "color": "#5D3A9B",
+    "color": "#f4a261",
     "locations": [
       {
         "name": "Istanbul",
@@ -180,7 +180,7 @@
   {
     "script": "Maghribi",
     "description": "Western Islamic calligraphy",
-    "color": "#2E8B57",
+    "color": "#8ab17d",
     "locations": [
       {
         "name": "Fez",
@@ -235,7 +235,7 @@
   {
     "script": "Nastaʿlīq",
     "description": "Used for Persian and Urdu literature",
-    "color": "#8B5E3C",
+    "color": "#e76f51",
     "locations": [
       {
         "name": "Isfahan",
