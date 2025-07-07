@@ -12,9 +12,8 @@ This repository contains the source code and content for the website **Calligrap
 
 The project is built with:
 - **Hugo** (static site generator)
-- **TimelineJS** (interactive timeline)
 - **Leaflet.js** (interactive maps)
-- Custom HTML, CSS, and JavaScript
+- Custom HTML, CSS
 
 ## Features
 
