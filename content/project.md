@@ -8,5 +8,5 @@ This digital humanities project explores the evolution, styles, and geographical
 
 By combining academic research with digital tools, the site makes the richness of Islamic calligraphy visible to a broad audience.
 
-This project was created as the final assignment for [*Digital Humanities and Data Sustainability: A Hands-on Practical Approach*](https://github.com/14143-DH-Sustainability), taught by Dr. Christian Casey at Freie Universität Berlin in Summer Semester 2025.
+This project was created as the final assignment for [*Digital Humanities and Data Sustainability: A Hands-on Practical Approach*](https://14143-dh-sustainability.github.io/), taught by Dr. Christian Casey at Freie Universität Berlin in Summer Semester 2025.
 
