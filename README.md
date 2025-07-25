@@ -17,7 +17,7 @@ The project is built with:
 
 ## Features
 
-- **Interactive Timeline:** Explore when each calligraphy style emerged and evolved.
+- **Timeline:** Explore when each calligraphy style emerged and evolved.
 - **Style Galleries:** Browse curated examples of Kufic, Naskh, Thuluth, and more.
 - **Contextual Essays:** Learn about the cultural and historical significance of each script.
 - **Open Access References:** Links to digitized collections (e.g., The Met, Library of Congress).
