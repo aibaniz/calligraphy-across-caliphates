@@ -12,4 +12,4 @@ This project was created as the final assignment for [*Digital Humanities and Da
 
 ## About the logo
 
-The logo is inspired by a shamsa — a decorative medallion traditionally found at the beginning of Islamic manuscripts, especially Qur’ans. This design is based on a 14th-century example from Maragha (1338 CE) and reflects the rich visual heritage of Islamic calligraphy.
+The logo is inspired by a shamsa — a decorative medallion traditionally found at the beginning of Islamic manuscripts, especially Qur’ān. This design is based on a 14th-century example from Maragha (1338 CE) and reflects the rich visual heritage of Islamic calligraphy.
