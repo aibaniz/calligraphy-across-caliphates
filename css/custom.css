@@ -13,6 +13,21 @@ html {
   scroll-behavior: smooth;
 }
 
+/* --- GLOBAL LINK STYLES --- */
+a:link,
+a:visited {
+  color: #265488; /* choose any color you like */
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #1e426a;
+}
+
+a:active {
+  color: #2d3774;
+}
+
 /* --- HEADER --- */
 .header-wrapper {
   background-color: #1e426a;
@@ -54,16 +69,22 @@ html {
   margin-top: 0.3rem;
 }
 
-.nav-link {
-  color: #e0d8c3;
+.nav-link:link,
+.nav-link:visited {
+  color: #e4ddd5;
   text-decoration: none;
   font-family: 'EB Garamond', serif;
   font-size: 1.4rem;
 }
 
-.nav-link:hover {
+.nav-link:hover,
+.nav-link:focus {
+  color: #ffffff;
   text-decoration: underline;
-  color: white;
+}
+
+.nav-link:active {
+  color: #e4ddd5;
 }
 
 /* --- PROJECT DESCRIPTION --- */
