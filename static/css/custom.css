@@ -313,12 +313,16 @@ footer {
   }
 }
 
-.explore-box {
+/* --- EXPLORE BUTTON --- */
+a.explore-box,
+a.explore-box:link,
+a.explore-box:visited,
+a.explore-box:active {
   display: inline-block;
   margin: 1.5rem auto 0;
   padding: 0.9rem 1.2rem;
   background-color: #1e426a;
-  color: #e0d8c3;
+  color: #e4ddd5;
   font-family: 'EB Garamond', serif;
   font-size: 1.1rem;
   border-radius: 20px;
@@ -326,8 +330,11 @@ footer {
   transition: background-color 0.3s ease;
 }
 
-.explore-box:hover {
+a.explore-box:hover,
+a.explore-box:focus {
   background-color: #2f5b8a;
+  color: #ffffff;
+  text-decoration: none;
 }
 
 /* --- TIMELINE EMBED --- */
